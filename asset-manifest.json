@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table_add_delete_edit/static/css/main.48212f60.css",
+    "main.js": "/table_add_delete_edit/static/js/main.5f013961.js",
+    "index.html": "/table_add_delete_edit/index.html",
+    "main.48212f60.css.map": "/table_add_delete_edit/static/css/main.48212f60.css.map",
+    "main.5f013961.js.map": "/table_add_delete_edit/static/js/main.5f013961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48212f60.css",
+    "static/js/main.5f013961.js"
+  ]
+}
